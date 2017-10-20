@@ -1,0 +1,7 @@
+/*** DEFINITIONS ***/
+Syntax: The vocabulary and grammatical rules surrounding the structure of code.
+Keywords: The vocabulary words of a programming language used to issue commands to a computer.
+
+/*** QUESTIONS ***/
+What is all the information we have about each book in the books table?
+     SELECT * FROM books;
